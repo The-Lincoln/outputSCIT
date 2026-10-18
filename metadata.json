@@ -1,0 +1,6 @@
+{
+  "name": "Pipelines Character Animation Studio",
+  "description": "Deterministic local cartoon character animation pipeline: script, rig plans, pose libraries, action timelines, and SVG/Canvas/Remotion rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
